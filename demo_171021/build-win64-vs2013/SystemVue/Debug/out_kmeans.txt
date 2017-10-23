@@ -1,0 +1,13 @@
+k=3
+cluster 0 
+centriod: 6.624000 2.984000 5.562000 2.026000 2.980000 
+elements number: 50
+
+cluster 1 
+centriod: 5.900000 2.760000 4.250000 1.326000 2.020000 
+elements number: 50
+
+cluster 2 
+centriod: 5.006000 3.418000 1.464000 0.244000 1.000000 
+elements number: 50
+

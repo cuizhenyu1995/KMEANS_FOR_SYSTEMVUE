@@ -1,0 +1,29 @@
+1       VERSIONINFO
+FILEVERSION     2016,08
+PRODUCTVERSION  2016,08
+FILEFLAGSMASK   0X3FL
+FILEFLAGS       0L
+FILEOS          0X40004L
+FILETYPE        0X2
+FILESUBTYPE     0
+BEGIN
+        BLOCK "StringFileInfo"
+        BEGIN
+                BLOCK "040904B0"
+                BEGIN
+                        VALUE "FileVersion", "2016.08"
+                        VALUE "ProductVersion", "2016.08"
+                        VALUE "OriginalFilename", ""
+                        VALUE "InternalName", ""
+                        VALUE "FileDescription", ""
+                        VALUE "CompanyName", ""
+                        VALUE "LegalCopyright", ""
+                        VALUE "ProductName", "SystemVue"
+                        VALUE "PrivateBuild", ""
+                END
+        END
+        BLOCK "VarFileInfo"
+        BEGIN
+                VALUE "Translation", 0x0409, 0x04B0
+        END
+END

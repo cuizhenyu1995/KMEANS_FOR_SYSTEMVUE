@@ -1,0 +1,7 @@
+﻿  kmeans_run.cpp
+kmeans_run.cpp(325): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+kmeans_run.cpp(324): warning C4101: 's' : unreferenced local variable
+kmeans_run.cpp(324): warning C4101: 't' : unreferenced local variable
+     Creating library D:/Demo/demo_171021/build-win64-vs2013/SystemVue/Debug/demo_171021.lib and object D:/Demo/demo_171021/build-win64-vs2013/SystemVue/Debug/demo_171021.exp
+  SystemVue-demo_171021.vcxproj -> D:\Demo\demo_171021\build-win64-vs2013\SystemVue\Debug\demo_171021.dll

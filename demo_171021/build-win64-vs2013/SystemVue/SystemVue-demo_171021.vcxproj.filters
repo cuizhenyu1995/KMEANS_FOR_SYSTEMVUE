@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Demo\demo_171021\source\SystemVue\LibraryProperties.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kmeans_run.cpp" />
+    <ClCompile Include="kmeans_in.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Demo\demo_171021\source\SystemVue\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\Demo\demo_171021\build-win64-vs2013\SystemVue\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6FCC9E58-E769-488B-83FD-3DBEDD9B503E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="kmeans_run.h" />
+    <ClInclude Include="kmeans_in.h" />
+  </ItemGroup>
+</Project>

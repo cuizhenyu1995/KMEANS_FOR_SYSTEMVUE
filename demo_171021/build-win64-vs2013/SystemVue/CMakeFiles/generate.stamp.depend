@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+D:/Demo/demo_171021/source/SystemVue/CMakeLists.txt
+C:/Program Files/SystemVue2016.08/ModelBuilder/CMake/ModelBuilder.cmake
+C:/Program Files/SystemVue2016.08/ModelBuilder/CMake/Modules/FindEEsofCreateVersionFile.cmake
+C:/Program Files/SystemVue2016.08/Tools/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+C:/Program Files/SystemVue2016.08/ModelBuilder/CMake/Modules/FindEEsofCreateVersionFile.rc.in
+C:/Program Files/SystemVue2016.08/Tools/Qt/src/corelib/Qt5CoreMacros.cmake
+C:/Program Files/SystemVue2016.08/Tools/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
